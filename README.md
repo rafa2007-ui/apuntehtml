@@ -10,7 +10,7 @@ Componentes principales de HTML
 
 **4)Atributos: Son características que se añaden a las etiquetas para describir o modificar la información de un elemento, como el tamaño de una imagen o el destino de un enlace.**
 
-¿Para qué se usa HTML?
+***¿Para qué se usa HTML?***
 
 Estructurar el contenido: Se utiliza para definir encabezados, párrafos, listas y otros bloques de información en una página. 
 Incluir contenido multimedia: Permite incorporar imágenes, videos y otros elementos en la web. 
