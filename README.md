@@ -12,6 +12,6 @@ Componentes principales de HTML
 
 ***¿Para qué se usa HTML?***
 
-Estructurar el contenido: Se utiliza para definir encabezados, párrafos, listas y otros bloques de información en una página. 
+_Estructurar el contenido: Se utiliza para definir encabezados, párrafos, listas y otros bloques de información en una página. 
 Incluir contenido multimedia: Permite incorporar imágenes, videos y otros elementos en la web. 
-Crear enlaces: Facilita la navegación entre diferentes páginas o secciones de un sitio web a través de hipervínculos. 
+Crear enlaces: Facilita la navegación entre diferentes páginas o secciones de un sitio web a través de hipervínculos._
