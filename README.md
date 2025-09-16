@@ -5,7 +5,9 @@ HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hip
 Componentes principales de HTML
 
 **2) Etiquetas: Son códigos que indican al navegador cómo debe interpretar y mostrar el contenido. Por ejemplo, <p> indica el inicio de un párrafo y </p> su fin.**
+
 **3)Elementos: Cada etiqueta, junto con su contenido y la etiqueta de cierre (si la tiene), forma un elemento HTML, que es el bloque fundamental de una página web.**
+
 **4)Atributos: Son características que se añaden a las etiquetas para describir o modificar la información de un elemento, como el tamaño de una imagen o el destino de un enlace.**
 
 ¿Para qué se usa HTML?
