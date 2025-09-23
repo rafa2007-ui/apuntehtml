@@ -1,5 +1,5 @@
 # Apuntes de HTML
-![imagen de fondo](images.png)
+![imagen de fondo](images/HTML-5-Badge-Logo.png)
 
 ## Apuntes sobre HTML
 Aqui no hay apuntes de html
