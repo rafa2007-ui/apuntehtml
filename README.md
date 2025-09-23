@@ -1,6 +1,6 @@
 # Apuntes de HTML
 ![imagen de fondo](images/HTML-5-Badge-Logo.png)
-
+[Pagina wiki](https://es.wikipedia.org/wiki/HTML)
 ## Apuntes sobre HTML
 Aqui no hay apuntes de html
 HTML, siglas en inglés de HyperText Markup Language (Lenguaje de Marcado de Hipertexto), es el lenguaje estándar para estructurar el contenido de las páginas web, definiendo elementos como texto, imágenes, enlaces y tablas a través de etiquetas o marcas. Se encarga de la estructura y el contenido de un sitio web, mientras que CSS se encarga de su estilo y JavaScript de su funcionalidad. 
